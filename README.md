@@ -135,3 +135,6 @@ To allow the keepalive script to work:
 MIT License
 ## Successful results displayed&成功结果展示
 ![Screenshot_2025-12-14-22-27-37-16_948cd9899890cbd5c2798760b2b95377](https://github.com/user-attachments/assets/3e1f1f6b-475c-4bce-9345-0011cb48add8)
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wwxseo/daily-bocchi-bot&type=Date)](https://star-history.com/#wwxseo/daily-bocchi-bot&Date)
