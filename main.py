@@ -2,6 +2,7 @@ import requests
 import os
 from datetime import datetime, timedelta
 import html
+# activate schedule
 
 # 1. 获取 GitHub Secrets
 BOT_TOKEN = os.environ.get("TG_BOT_TOKEN")
