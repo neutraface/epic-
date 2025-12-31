@@ -3,7 +3,7 @@ name: Epic Free Game Notifier
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 10 * * *'
+  - cron: '20 3 * * *'
 
 
 jobs:
